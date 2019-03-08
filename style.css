@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css?family=Dancing+Script|Roboto:400,400i,700,900i');
+*{
+    margin: 0;
+    padding: 0;
+    background-color: antiquewhite;
+}
+.container{
+    display: flex;
+    padding: 30px;
+    border-radius: 0px  16px 0px 16px;
+    box-shadow: 3px 6px;
+    background-color: teal;
+    padding: 10px;
+    color:black;
+}
+.vext{
+    position: absolute;
+    background-color:green;
+    padding: 7px;
+    margin-left: 120px;
+    text-decoration: none;
+    color: whitesmoke;
+    border-radius: 0px  80px 0px 16px;
+    box-shadow: 5px 5px;
+    height: 60px;
+    width:65px;
+}
+.pext{
+    text-decoration: none;
+    color: whitesmoke;
+    background-color:green;
+    border-radius: 0px  80px 0px 160px;
+    box-shadow: .1px .1px;
+    margin-bottom: 10px;
+    font-family: 'Dancing Script', cursive;
+
+}
+.flex{
+    color: rgba(101, 29, 29,1);
+    border-radius: 0px  16px 0px 16px;
+    box-shadow: 3px 6px;
+    background-color:green;
+    height: 50px;
+    width: 250px;
+    margin-left:65%;
+    padding-left: 115px;
+    padding: 10px;
+   
+}
+.link{
+    position: absolute;
+    margin-left:150px;
+    background-color: green;
+}
+.dink{
+    background-color: green;
+}
+.text{
+    text-decoration: none;
+    color:whitesmoke;
+    border-radius: 0px  16px 0px 16px;
+    box-shadow: 3px 6px;
+    background-color:teal;
+    padding:5px;
+    font-family: 'Dancing Script', cursive;
+}
